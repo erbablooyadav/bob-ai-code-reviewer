@@ -1,0 +1,6 @@
+{
+  "name": "Bob - The AI Code Reviewer",
+  "description": "An enterprise-grade code reviewer powered by Gemini AI. Authenticate with GitHub to review private pull requests, or enter a public PR link for instant analysis. Bob performs a deep analysis covering security, code quality, potential bugs, and breaking changes, providing a comprehensive report with severity ratings.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
